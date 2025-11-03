@@ -224,11 +224,5 @@ O projeto alcançou os seguintes resultados:
 
 ---
 
-## 🔜 Próximos Passos
 
-- [ ] Implementação de detecção em tempo real
-- [ ] Desenvolvimento de uma interface web para visualização
-- [ ] Incorporação de técnicas de Deep Learning
-- [ ] Testes em ambientes reais de produção
-- [ ] Otimização de hiperparâmetros com GridSearchCV
 
